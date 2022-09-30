@@ -1,0 +1,30 @@
+wheel
+wget
+
+notebook
+ipykernel
+ipywidgets
+
+black
+
+numpy
+pandas
+openpyxl
+pyarrow
+dask
+
+scikit-learn
+mlxtend
+dask-ml
+# xgboost==0.90
+
+matplotlib
+seaborn
+
+torch
+# torchvision
+# torchaudio
+--extra-index-url https://download.pytorch.org/whl/cu116
+
+pytorch-tabnet
+skorch
